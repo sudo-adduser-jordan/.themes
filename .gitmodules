@@ -1,3 +1,12 @@
 [submodule "kali-themes"]
 	path = kali-themes
 	url = https://gitlab.com/kalilinux/packages/kali-themes
+[submodule "Gruvbox-GTK-Theme"]
+	path = Gruvbox-GTK-Theme
+	url = https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme
+[submodule "WhiteSur-gtk-theme"]
+	path = WhiteSur-gtk-theme
+	url = https://github.com/vinceliuice/WhiteSur-gtk-theme
+[submodule "Yaru-Colors"]
+	path = Yaru-Colors
+	url = https://github.com/Jannomag/Yaru-Colors
